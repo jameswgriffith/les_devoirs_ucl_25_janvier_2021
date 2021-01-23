@@ -4,7 +4,7 @@
 # https://cran.r-project.org/
 # https://rstudio.com/products/rstudio/download/
 
-# Il faut télécharger les données put cet exemple de cette lien :
+# Il faut télécharger les données pour cet exemple de cet lien :
 # https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NABLZX
 
 
